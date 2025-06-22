@@ -1,0 +1,30 @@
+﻿Cambio de ICC Línea móvil principal
+8934071010014098326
+Realizado
+25/03/2025
+
+Tarifa móvil:     Movistar-326F
+
+Galaxy watch6   SM-R965F
+ID eSIM:   89043051202200836223019344651574
+ICCID:   8934071010014098326
+MAC wifi/BT     DC:C4:9C:03:CA:5C/5B
+software:   One UI 6.0 Watch     Wear OS 5.0
+
+app mensajes instalada en el reloj:   messages.android_20250311_04_RC01.wear_dynamic
+permisos concedidos:
+contactos
+microfono
+notificaciones
+sms   ultimo acceso:  hoy
+telefono
+ubicacion
+
+todas aplicaciones samsung preinstaladas y del sistema están ACTUALIZADAS
+bandeja entrada:    reloj
+
+A veces, la eSIM no está configurada correctamente para la función SMS. Esto podría deberse a una activación incompleta del operador o a algún problema con la configuración de mensajería de tu dispositivo.
+El operador debe habilitar la función SMS en tu perfil de eSIM. Si omitió este paso durante la activación, podrías tener problemas con tu tarjeta eSIM al intentar enviar o recibir mensajes de texto.
+Verificar la activación del operador: Confirma con tu operador que tu perfil de eSIM esté completamente activado y sea compatible con la mensajería SMS. Solicita que vuelvan a configurar la eSIM, si es necesario.
+
+
